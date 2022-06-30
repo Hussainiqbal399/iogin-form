@@ -1,0 +1,77 @@
+body{
+    background-image: url(./cloudy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border{
+    border: 7px solid aqua;
+    width: 38%;
+    margin: 10% 31%;
+    background-color:pink;
+}
+
+.maindiv{
+    display: flex;
+}
+
+.btn {
+    margin:10px;
+    height: 35px;
+    width: 240px;
+    text-align: left;
+    color: white;
+    position: relative;
+    top: 20px;
+    border-style: none;
+}
+.btn .b1{
+background-color: darkblue;
+}
+.btn .b2{
+    background-color:rgb(51, 167, 240);
+}
+.btn.b3{
+background-color:red;
+}
+.btn button{
+}
+.inpt input{
+    margin: 10px;
+    height:25px ;
+    width: 240px;
+}
+.inpt button{
+    height:25px ;
+    width: 58px;
+    margin-left: 10px;
+    background-color:rgb(56, 191, 236);
+    color: white;
+    border-style: none;
+}
+.ptag{
+    display: flex;
+}
+.ptag p{
+    margin: 12px;
+    color: blue;
+}
+.pp{
+    padding-left: 30px;
+}
+.inpt{
+    margin-left: 10px;
+}
+.skht{
+    border-left: 2px solid aqua;
+    margin-left: 20px;
+}
+.inpt h4{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.sec1 h1{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    }
